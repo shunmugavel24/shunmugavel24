@@ -1,6 +1,6 @@
 - 👋 Hi, I’m shunmugavel
-- 👀 I’m interested in Machine learning and AI.
-- 🌱 I’m currently Looking for job in data science and Machine learning .
+- 👀 Passionate towards Data science and its techniques and I have 12 months of professional experience as an Associate learning and Development coming with good knowledge of Data Analysis, PowerBI, Tableau, Visualisations, Statistics, SQL and Python programming.
+- 🌱 I’m currently Looking for job in Data science,Machine learning, AI, Python Developer .
 - 📫 Reach me on whatsapp : 9677437827.
 
 <!---
