@@ -1,6 +1,6 @@
 - 👋 Hi, I’m shunmugavel
-- 👀 Passionate towards software engineer and its techniques and I have 12 months of professional experience as an Associate learner and Development coming with good knowledge of full stack development, Android and IOS mobile App development, React.js, React Native, Flutter, javascript, HTML,CSS SQL and Python programming.
-- 🌱 I’m currently Looking for job in Full stack development, react.js, react native, flutter and Python Developer.
+- 👀 Passionate towards Data Science and its techniques and I have 12 months of professional experience as an Associate learner and Development coming with good knowledge of Machine learning algorithms, PowerBI, Tableau, Statistics, SQL and Python programming.
+- 🌱 I’m currently Looking for job in Machine learning algorithms, PowerBI, Tableau, Statistics, SQL and Python Developer.
 - 📫 Reach me on whatsapp : 9677437827.
 
 <!---
