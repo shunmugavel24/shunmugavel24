@@ -1,6 +1,6 @@
 - 👋 Hi, I’m shunmugavel
-- 👀 Passionate towards Data Science and its techniques and I have 12 months of professional experience as an Associate learner and Development coming with good knowledge of Machine learning algorithms, PowerBI, Tableau, Statistics, SQL and Python programming.
-- 🌱 I’m currently Looking for job in Machine learning algorithms, PowerBI, Tableau, Statistics, SQL and Python Developer.
+- 👀 Passionate towards Data Science and Flutter Mobile app development its techniques and I have 2 years of professional experience as an Associate learner and Development coming with good knowledge of Android and iOS app development, Machine learning algorithms, PowerBI, Tableau, SQL and Python programming.
+- 🌱 I’m currently Looking for job in Flutter developer, Machine learning, PowerBI, Tableau, SQL and Python Developer.
 - 📫 Reach me on whatsapp : 9677437827.
 
 <!---
